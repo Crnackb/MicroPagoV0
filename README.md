@@ -21,8 +21,6 @@ IDE recomendado: NetBeans
 
 🛠️ Instalación
 1. Clonar el repositorio
--bashgit clone https://github.com/tu-usuario/sistema-pagos.git
--cd sistema-pagos
 2. Configurar la Base de Datos
 Crea la base de datos y la tabla en PostgreSQL:
 sql-- Crear la base de datos (si no existe)
